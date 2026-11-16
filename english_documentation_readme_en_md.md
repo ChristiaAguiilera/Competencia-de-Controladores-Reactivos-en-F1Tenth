@@ -1,3 +1,11 @@
+<div align="right">
+  <a href="https://github.com/ChristiaAguiilera/Competencia-de-Controladores-Reactivos-en-F1Tenth/blob/main/README.md"><img src="https://img.shields.io/badge/🏠_Inicio-Portada-444444?style=for-the-badge" alt="Inicio"/></a>
+  <a href="https://github.com/ChristiaAguiilera/Competencia-de-Controladores-Reactivos-en-F1Tenth/blob/main/documentaci_n_en_espa_ol_readme_md.md"><img src="https://img.shields.io/badge/🇪🇸_Idioma-Español-D92626?style=for-the-badge" alt="Español"/></a>
+  <a href="https://github.com/ChristiaAguiilera/Competencia-de-Controladores-Reactivos-en-F1Tenth/blob/main/english_documentation_readme_en_md.md"><img src="https://img.shields.io/badge/🇺🇸_Language-English-0052CC?style=for-the-badge" alt="English"/></a>
+</div>
+
+
+
 # 🏎️ F1TENTH Autonomous Racing: "Follow the Gap" Reactive Controller (Sepang Circuit)
 
 🌐 **Language / Idioma:** [**Español**](README.md) | [**English**](README_EN.md)
