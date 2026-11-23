@@ -2,6 +2,7 @@
   <a href="https://github.com/ChristiaAguiilera/Competencia-de-Controladores-Reactivos-en-F1Tenth/blob/main/README.md"><img src="https://img.shields.io/badge/🏠_Inicio-Portada-444444?style=for-the-badge" alt="Inicio"/></a>
   <a href="https://github.com/ChristiaAguiilera/Competencia-de-Controladores-Reactivos-en-F1Tenth/blob/main/documentaci_n_en_espa_ol_readme_md.md"><img src="https://img.shields.io/badge/🇪🇸_Parte_A-Pista_Limpia-D92626?style=for-the-badge" alt="Parte A"/></a>
   <a href="https://github.com/ChristiaAguiilera/Competencia-de-Controladores-Reactivos-en-F1Tenth/blob/main/english_documentation_readme_en_md.md"><img src="https://img.shields.io/badge/🇺🇸_Language-English-0052CC?style=for-the-badge" alt="English"/></a>
+  <a href="https://youtu.be/wi7857e5MLQ"><img src="https://img.shields.io/badge/▶️_Video_Parte_B-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Parte B"/></a>
 </div>
 
 # 🏆 Parte B: Competencia con Obstáculos Estáticos y Dinámicos (Multi-Agente)
@@ -10,6 +11,22 @@ En esta segunda fase del proyecto se evalúa la robustez, capacidad de evasión 
 
 1. **Prueba B1 — Evasión de 5 Obstáculos Estáticos (`Sepang_obs_map`):** Navegación autónoma esquivando bloques físicos distribuidos en rectas y salidas de curva.
 2. **Prueba B2 — Adelantamiento a Obstáculo Dinámico Multi-Agente (`num_agent: 2`):** Carrera simultánea con un segundo vehículo autónomo (`opp_racecar`) posicionado **5.0 metros** por delante en la grilla de salida, ejecutando maniobras de rebase limpio durante las 10 vueltas reglamentarias.
+
+---
+
+## 🎥 Video Demostrativo — Parte B (Obstáculos Estáticos y Rebase Multi-Agente)
+
+Haz clic en la vista previa inferior o en el enlace directo para reproducir la demostración de la Parte B en YouTube:
+
+* 🔗 **Enlace directo al video:** [https://youtu.be/wi7857e5MLQ](https://youtu.be/wi7857e5MLQ)
+
+<div align="center">
+  <a href="https://youtu.be/wi7857e5MLQ" target="_blank">
+    <img src="https://img.youtube.com/vi/wi7857e5MLQ/maxresdefault.jpg" alt="Demostración F1Tenth Parte B - Obstáculos y Multi-Agente" width="85%" style="border-radius: 10px; border: 2px solid #333;" />
+  </a>
+  <br>
+  <sub><i>👆 Haz clic sobre la imagen para reproducir el video de la Parte B en YouTube (https://youtu.be/wi7857e5MLQ)</i></sub>
+</div>
 
 ---
 
